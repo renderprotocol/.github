@@ -136,7 +136,7 @@ graph TD
 |---|---|---|---|
 | **[RPGeneratedSwift](https://github.com/renderprotocol/RPGeneratedSwift)** | Swift | Auto-generated Swift Protobuf & gRPC stubs from `render-protocol-spec`. Consumed as a dependency by `RenderProtocolSwift`. | 🟢 Active |
 | **[rp_generated_dart](https://github.com/renderprotocol/rp_generated_dart)** | Dart | Auto-generated Dart Protobuf & gRPC stubs from `render-protocol-spec`. Consumed by `fl_render_protocol` and `render_protocol_server`. | 🟢 Active |
-| **[rp-generated-kotlin](https://github.com/renderprotocol/rp-generated-kotlin)** | Kotlin | Auto-generated Kotlin Protobuf & gRPC stubs for `render-protocol-compose`. | 🟠 Planned |
+| **[rp-generated-kotlin](https://github.com/renderprotocol/rp-generated-kotlin)** | Kotlin | Auto-generated Kotlin Protobuf & gRPC stubs for `render-protocol-compose`. | 🟢 Active |
 
 ---
 
