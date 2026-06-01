@@ -136,7 +136,7 @@ graph TD
 |---|---|---|---|
 | **[RPGeneratedSwift](https://github.com/renderprotocol/RPGeneratedSwift)** | Swift | Auto-generated Swift Protobuf & gRPC stubs from `render-protocol-spec`. Consumed as a dependency by `RenderProtocolSwift`. | 🟢 Active |
 | **[rp_generated_dart](https://github.com/renderprotocol/rp_generated_dart)** | Dart | Auto-generated Dart Protobuf & gRPC stubs from `render-protocol-spec`. Consumed by `fl_render_protocol` and `render_protocol_server`. | 🟢 Active |
-| **rp-generated-kotlin** | Kotlin | Auto-generated Kotlin Protobuf & gRPC stubs for `render-protocol-compose`. | 🟠 Planned |
+| **[rp-generated-kotlin](https://github.com/renderprotocol/rp-generated-kotlin)** | Kotlin | Auto-generated Kotlin Protobuf & gRPC stubs for `render-protocol-compose`. | 🟠 Planned |
 
 ---
 
@@ -146,7 +146,7 @@ graph TD
 |---|---|---|---|
 | **[RPUtilsSwift](https://github.com/renderprotocol/RPUtilsSwift)** | Swift | Shared utility package — component factories, style resolvers, widget helpers, and action handlers for SwiftUI. | 🟢 Active |
 | **[rp_utils_dart](https://github.com/renderprotocol/rp_utils_dart)** | Dart | Shared utility package — component factories, style resolvers, widget helpers, and action handlers for Flutter & server. | 🟢 Active |
-| **rp-utils-kotlin** | Kotlin | Shared utility package for Jetpack Compose — component factories, style resolvers, and action handlers. | 🟠 Planned |
+| **[rp-utils-kotlin](https://github.com/renderprotocol/rp-utils-kotlin)** | Kotlin | Shared utility package for Jetpack Compose — component factories, style resolvers, and action handlers. | 🟠 Planned |
 
 ---
 
